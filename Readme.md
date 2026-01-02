@@ -1,3 +1,3 @@
-https://github.com/Ishaanjain14/fd
+The Financial DashBoard Frontend - https://github.com/Ishaanjain14/fd
 
-https://github.com/Ishaanjain14/Ml-Trading-Bot
+The Trading Bot - https://github.com/Ishaanjain14/Ml-Trading-Bot
